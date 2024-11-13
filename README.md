@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/zenfiweb3" target="_blank">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ZenWeb3)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZenWeb3&theme=dark" alt="GitHub Streak" /></a>
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/samueledohoeket257@gmail.com" target="_blank">
