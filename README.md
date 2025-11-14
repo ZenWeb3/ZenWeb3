@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samuel Edohoeket and I'm a web Developer</h2>
+<h2 align="left">Hi 👋! i build stuff</h2>
 
 ###
 
