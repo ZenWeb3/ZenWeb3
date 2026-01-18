@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! i build stuff</h2>
+<h2 align="left">This usser is under reconstruction. gonna catch up to yall soon. journey to being a cracked dev.</h2>
 
 ###
 
