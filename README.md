@@ -19,7 +19,7 @@
 - 🏗️ Building with **Solidity** and **Sui Move**
 - 🧪 Backend-first mindset with real systems, not toy apps
 - 🏁 **Tech Almajiri** — I love competing in hackathons & pressure-building
-- 📈 Rust is on my roadmap this year, not pretending yet
+- 📈 Rust is on my roadmap this year, gonna learn it for sure.
 
 I care about **systems that work**, **code that scales**, and **shipping under pressure**.
 
