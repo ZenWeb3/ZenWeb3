@@ -1,7 +1,7 @@
 <h1 align="center">Zen ⚡</h1>
 
 <h3 align="center">
-Tech Almajiri · Hackathon Competitor · Builder in Public
+  Software Developer · Hackathon Almajiri · Builder in Public
 </h3>
 
 <p align="center">
@@ -58,6 +58,9 @@ I care about **systems that work**, **code that scales**, and **shipping under p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactnative/reactnative-original.svg" height="30"/>
+  
 </div>
 
 ---
