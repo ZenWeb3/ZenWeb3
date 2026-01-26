@@ -1,43 +1,79 @@
-<h2 align="left">This usser is under reconstruction. gonna catch up to yall soon. journey to being a cracked dev.</h2>
+<h1 align="center">Zen 👾</h1>
+<h3 align="center">Under Construction · Building in Public · Becoming Cracked</h3>
 
-###
+<p align="center">
+  <i>
+    This profile is under reconstruction.<br/>
+    Catching up soon. Grinding silently. Shipping loudly.
+  </i>
+</p>
 
-<img align="right" height="160" src="https://giffiles.alphacoders.com/215/215956.gif"  />
+<img align="right" height="170" src="https://giffiles.alphacoders.com/215/215956.gif" />
 
-###
+---
+
+### 🧠 About Me
+
+- 🚀 Frontend & Mobile Developer (Web • Mobile • Web3)
+- 🔗 Building in **Web3 (Sui / Solana)**  
+- 🧪 Exploring **AI, Smart Contracts & Scalable Systems**
+- 🎯 Goal: become **dangerously good** at shipping real products
+
+> *“Journey to being a cracked dev.”* — no shortcuts, just reps.
+
+---
+
+### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 </div>
 
-###
+---
+
+### 📊 GitHub Grind
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZenWeb3&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCghxZmHUPfsbb1HPW1yGfMg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/Zenszn0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/zenfiweb3" target="_blank">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZenWeb3&theme=dark" alt="GitHub Streak" /></a>
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+  <a href="https://twitter.com/Zen_sui" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/samueledohoeket257@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="mailto:samueledohoeket257@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+<p align="center">
+  <b>More projects loading…</b><br/>
+  <i>Stay tuned. The rebuild is intentional.</i>
+</p>
