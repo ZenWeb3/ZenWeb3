@@ -15,9 +15,9 @@
 
 ### 🧠 About Me
 
-- 🧑🏾‍💻 Software Developer focused on **Web, Backend & Web3**
+- 🧑🏾‍💻 Software Developer focused on **Web, Mobile Backend & Web3**
 - 🏗️ Building with **Solidity** and **Sui Move**
-- 🧪 Backend-first mindset with real systems, not toy apps
+- 🧪 Backend-first mindset with real systems
 - 🏁 **Tech Almajiri** — I love competing in hackathons & pressure-building
 - 📈 Rust is on my roadmap this year, gonna learn it for sure.
 
