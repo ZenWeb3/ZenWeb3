@@ -84,7 +84,7 @@ I call myself a **tech almajiri**. I'm here to learn by building, contribute whe
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZenWeb3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Zen's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenWeb3&layout=compact&hide_border=true&theme=transparent" alt="Zen's most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenWeb3&layout=compact&hide_border=true&theme=transparent&hide=python" alt="Zen's most used languages" />
 </p>
 
 <p align="center">
